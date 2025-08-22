@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Camilo Peña Guerrero
 
-<!--
-**CamiloPG36/CamiloPG36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Desarrollador Frontend Junior, apasionado por la construcción de interfaces limpias, interactivas, agradables e intuitivas a la hora del uso por parte del usuario final.
 
-Here are some ideas to get you started:
+Actualmente estoy consolidando mis conocimientos con proyectos prácticos y manejando herramientas modernas junto con el uso de IA, para crecer en el mundo del desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologías y herramientas
+- **Frontend:** HTML5, CSS3,JavaScript (Vanilla), Flexbox, Grid.
+- **Aprendiendo:** React, Inteligencia Artificial.
+- **Herramientas:** VS Code, Git y GitHub.
+
+
+## 📌 Proyectos destacados
+
+*(Pronto estaré fijando más proyectos en este perfil)*  
+
+
+## 📬 Contacto
+- 📧 Email: ever.pena87@gmail.com  
+- 📱 Celular: +57 300 4708258  
+- 🌍 Bogotá, Colombia  
+- 💻 GitHub: [CamiloPG36](https://github.com/CamiloPG36)  
+
+
+✨ *Gracias por visitar mi perfil. ¡Siempre abierto a aprender y colaborar!* ✨
