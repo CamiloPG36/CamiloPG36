@@ -6,7 +6,7 @@ Actualmente estoy consolidando mis conocimientos con proyectos prácticos y mane
 
 
 ## 🚀 Tecnologías y herramientas
-- **Frontend:** HTML5, CSS3,JavaScript (Vanilla), Flexbox, Grid.
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla), Flexbox, Grid.
 - **Aprendiendo:** React, Inteligencia Artificial.
 - **Herramientas:** VS Code, Git y GitHub.
 
