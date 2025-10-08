@@ -1,8 +1,8 @@
 # 👋 Hola, soy Camilo Peña Guerrero
 
-Soy Desarrollador Frontend Junior, apasionado por la construcción de interfaces limpias, interactivas, agradables e intuitivas a la hora del uso por parte del usuario final.
+Soy **Desarrollador Frontend Junior**, apasionado por la construcción de **interfaces limpias, interactivas, agradables e intuitivas** a la hora del uso por parte del usuario final.
 
-Actualmente estoy consolidando mis conocimientos con proyectos prácticos y manejando herramientas modernas junto con el uso de IA, para crecer en el mundo del desarrollo web.
+Actualmente estoy **consolidando mis conocimientos** con proyectos prácticosmediante proyectos prácticos, aplicando herramientas modernas y explorando el uso de **Inteligencia Artificial** en el desarrollo web.
 
 
 ## 🚀 Tecnologías y herramientas
@@ -13,7 +13,8 @@ Actualmente estoy consolidando mis conocimientos con proyectos prácticos y mane
 
 ## 📌 Proyectos destacados
 
-*(Pronto estaré fijando más proyectos en este perfil)*  
+Pronto estaré fijando mis proyectos más representativos en este perfil.  
+Cada uno refleja mi evolución como desarrollador y mi compromiso con el aprendizaje continuo.
 
 
 ## 📬 Contacto
